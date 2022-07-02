@@ -1,6 +1,13 @@
-# SMSDigitalCodingProject - STEPS FOR WEB API WITH CRUD OPERATIONS 
+# SMSDigitalCodingProject - SCREENSHOTS AND STEPS FOR WEB API WITH CRUD OPERATIONS 
 
-Created a .NET 6 Web Api for Coding. 
+![image](https://user-images.githubusercontent.com/60474734/176987884-507ffce3-412a-49d3-a8ff-43421ede75af.png)
+![image](https://user-images.githubusercontent.com/60474734/176987679-1ea7ab7f-1e25-4f35-8f92-16c1dabf929c.png)
+![image](https://user-images.githubusercontent.com/60474734/176987704-8b6c7661-cbbe-418d-a0bf-09a49b032dd2.png)
+
+We can use swagger for performing authentication and CRUD operations.
+![image](https://user-images.githubusercontent.com/60474734/176987748-78d1631b-25fd-437b-aee6-3b9422a6cacf.png)
+
+Create a .NET 6 Web Api for Coding. 
 
 Note: Username and Password is HardCoded for Authentication and Token generation usig JWT(JSON Web Token). 
 
@@ -48,10 +55,4 @@ Steps for testing using Postman are below -
 
 Note: - Username and password provided in TokenController 'GetUser' Method. Select IISExpress. 
 
-https://localhost:44320/api/token :- first provide username and password using post method and json format, you will get token then perform CRUD operations using GetCities.Below are the screenshots 
-
-![image](https://user-images.githubusercontent.com/60474734/176987679-1ea7ab7f-1e25-4f35-8f92-16c1dabf929c.png)
-![image](https://user-images.githubusercontent.com/60474734/176987704-8b6c7661-cbbe-418d-a0bf-09a49b032dd2.png)
-
-We can use swagger for performing authentication and CRUD operations.
-![image](https://user-images.githubusercontent.com/60474734/176987748-78d1631b-25fd-437b-aee6-3b9422a6cacf.png)
+https://localhost:44320/api/token :- first provide username and password using post method and json format, you will get token then perform CRUD operations using GetCities.screenshots above.
