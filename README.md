@@ -56,4 +56,5 @@ Steps for testing using Postman are below -
 
 Note: - Username and password provided in TokenController 'GetUser' Method. Select IISExpress. 
 
-https://localhost:44320/api/token :- first provide username and password using post method and json format, you will get token then perform CRUD operations using GetCities.screenshots above.
+https://localhost:44320/api/token :- first provide username and password using post method and json format, you will get token then perform GET and CRUD operations using  URL https://localhost:44320/api/city/GetCities and https://localhost:44320/api/city/AddCity.
+Screenshots above.
