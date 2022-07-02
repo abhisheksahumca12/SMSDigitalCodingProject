@@ -2,15 +2,25 @@
 
 ![image](https://user-images.githubusercontent.com/60474734/176987884-507ffce3-412a-49d3-a8ff-43421ede75af.png)
 
+
+
 ![image](https://user-images.githubusercontent.com/60474734/176987679-1ea7ab7f-1e25-4f35-8f92-16c1dabf929c.png)
 
+
+
 ![image](https://user-images.githubusercontent.com/60474734/176987704-8b6c7661-cbbe-418d-a0bf-09a49b032dd2.png)
+
+
 
 We can use swagger for performing authentication and CRUD operations.
 
 ![image](https://user-images.githubusercontent.com/60474734/176987748-78d1631b-25fd-437b-aee6-3b9422a6cacf.png)
 
+
+
 ![image](https://user-images.githubusercontent.com/60474734/176987959-e7977a40-541a-4ec2-b959-9a663965d886.png)
+
+
 
 Create a .NET 6 Web Api for Coding. 
 
