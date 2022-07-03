@@ -20,7 +20,9 @@ We can use swagger for performing authentication and CRUD operations.
 
 ![image](https://user-images.githubusercontent.com/60474734/176987959-e7977a40-541a-4ec2-b959-9a663965d886.png)
 
-Sql Database named 'CityDB' craeted and seeded it from the provided `data.json`
+Sql Database named 'CityDB' created and seeded it from the provided `data.json`
+
+
 
 ![image](https://user-images.githubusercontent.com/60474734/177034595-44ae016d-10ee-42be-9344-31af5dec04df.png)
 
