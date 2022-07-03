@@ -24,7 +24,9 @@ We can use swagger for performing authentication and CRUD operations.
 
 Create a .NET 6 Web Api for Coding. 
 
-Note: Username and Password is HardCoded for Authentication and Token generation usig JWT(JSON Web Token). 
+Note 1: Username and Password is HardCoded for Authentication and Token generation usig JWT(JSON Web Token). 
+Note 2: Dockerfile and Logging implemented
+Note 3: Swagger imlemented
 
 First Install Required Nuget Packages 
 
