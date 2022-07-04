@@ -12,6 +12,10 @@
 
 
 
+![image](https://user-images.githubusercontent.com/60474734/177102032-023b9513-51b6-4f9d-8356-e439fc59c72f.png)
+
+
+
 We can use swagger for performing authentication and CRUD operations.
 
 ![image](https://user-images.githubusercontent.com/60474734/176987748-78d1631b-25fd-437b-aee6-3b9422a6cacf.png)
