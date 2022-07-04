@@ -24,7 +24,8 @@ Sql Database named 'CityDB' created and seeded it from the provided `data.json`
 
 
 
-![image](https://user-images.githubusercontent.com/60474734/177034595-44ae016d-10ee-42be-9344-31af5dec04df.png)
+![image](https://user-images.githubusercontent.com/60474734/177078693-d946478a-4ca7-43f7-945e-6eca6b58cd1c.png)
+
 
 
 
