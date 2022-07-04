@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "composeLaunchAction": "LaunchBrowser",
+      "composeLaunchServiceName": "smsdigitalcodingproject",
+      "composeLaunchUrl": "{Scheme}://localhost:{ServicePort}/api/token",
+      "commandVersion": "1.0",
+      "serviceActions": {
+        "smsdigitalcodingproject": "StartDebugging"
+      }
+    }
+  }
+}

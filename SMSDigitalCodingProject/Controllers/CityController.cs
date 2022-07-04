@@ -45,8 +45,8 @@ namespace SMSDigitalCodingProject.Controllers
 
         // GET api/GetCity
         [HttpGet]
-        [Route("GetCity")]
-        public async Task<IActionResult> GetCity(int? id)
+        [Route("GetCity/{id:int}")]
+        public async Task<IActionResult> GetCity(int id)
         {
             if (id == null)
             {
@@ -100,7 +100,7 @@ namespace SMSDigitalCodingProject.Controllers
         }
 
         // POST api/UpdateCity/5
-        [HttpPost]
+        [HttpPut]
         [Route("UpdateCity")]
         public async Task<IActionResult> UpdateCity(CityDetail city)
         {
@@ -124,8 +124,8 @@ namespace SMSDigitalCodingProject.Controllers
 
         // DELETE api/DeleteCity/5
         [HttpDelete]
-        [Route("DeleteCity")]
-        public async Task<IActionResult> DeleteCity(int? id)
+        [Route("DeleteCity/{id:int}")]
+        public async Task<IActionResult> DeleteCity(int id)
         {
             int result = 0;
 
